@@ -6,5 +6,5 @@ setup(name='skc_g12',
       author='Edward Jose',
       author_email='example@example.com',
       url='https://www.python.org/community/sigs/current/distutils-sig',
-      install_requires=['Flask>=0.9', 'MarkupSafe'],
+      install_requires=['Flask>=0.9', 'MarkupSafe', 'pymongo'],
      )
