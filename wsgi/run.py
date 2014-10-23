@@ -16,8 +16,9 @@ from dashboard import dashboard_app
 # user: admin
 # password: iop-098
 
-
-app = Flask('G12')
+tmpl_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'templates')
+app = Flask('G12', template_folder=tmpl_dir)
+# app = Flask('G12')
 app.config.from_object('config')
 # database
 # conn = pymongo_safe.MongoHandler(DB_CONFIG)
