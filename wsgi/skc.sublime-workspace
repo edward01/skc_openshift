@@ -1,0 +1,1019 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"login",
+				"login_submit"
+			],
+			[
+				"supp",
+				"form_support"
+			],
+			[
+				"eve",
+				"events_total"
+			],
+			[
+				"pag",
+				"paging"
+			],
+			[
+				"rep",
+				"replace"
+			],
+			[
+				"email",
+				"email_body"
+			],
+			[
+				"em",
+				"email_body"
+			],
+			[
+				"emai",
+				"email_body"
+			],
+			[
+				"creat",
+				"created_datetime"
+			],
+			[
+				"wi",
+				"width:   (property)"
+			],
+			[
+				"pa",
+				"padding-right:   (property)"
+			],
+			[
+				"alert",
+				"alert2"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"po",
+				"post_msg"
+			],
+			[
+				"update",
+				"updated"
+			],
+			[
+				"nots",
+				"notes_tab"
+			],
+			[
+				"times",
+				"timestamp"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"padding-",
+				"padding-top:   (property)"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"min",
+				"min-width:   (property)"
+			],
+			[
+				"max",
+				"max-width:   (property)"
+			],
+			[
+				"tot",
+				"total_amt"
+			],
+			[
+				"intel",
+				"intelle_plan"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"rp",
+				"report_tbl_header"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"Hits_o",
+				"hits_by_hour"
+			],
+			[
+				"subs",
+				"subscribers_cnt"
+			],
+			[
+				"dwe",
+				"dwell"
+			],
+			[
+				"dw",
+				"dwell"
+			],
+			[
+				"beacon",
+				"beacon_cnt"
+			],
+			[
+				"dwell",
+				"dwell_avg"
+			],
+			[
+				"exp",
+				"export_filename"
+			],
+			[
+				"top_",
+				"top_subscribers_hit"
+			],
+			[
+				"top",
+				"top_subscribers_dwell"
+			],
+			[
+				"top_lo",
+				"top_locations_hits"
+			],
+			[
+				"loc",
+				"location_list"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"sub",
+				"subscriber"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"cont",
+				"contents"
+			],
+			[
+				"bea",
+				"beacon"
+			],
+			[
+				"ti",
+				"Time"
+			],
+			[
+				"Lo",
+				"location"
+			],
+			[
+				"style",
+				"styleH"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"De",
+				"DefaultTheme"
+			],
+			[
+				"pdf",
+				"pdfgen  (module)"
+			],
+			[
+				"ren",
+				"render_pdf"
+			],
+			[
+				"val",
+				"value=  (attribute)"
+			],
+			[
+				"ev",
+				"event"
+			],
+			[
+				"export",
+				"export_type"
+			],
+			[
+				"c",
+				"class"
+			],
+			[
+				"merc",
+				"merchant_id"
+			],
+			[
+				"mr",
+				"merchant_id"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"wid",
+				"widget-content"
+			],
+			[
+				"mer",
+				"merchant_id"
+			],
+			[
+				"appro",
+				"approved_merchant"
+			],
+			[
+				"st",
+				"style=  (attribute)"
+			],
+			[
+				"ema",
+				"email_datetime"
+			],
+			[
+				"e",
+				"emails"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"reply",
+				"replymsg"
+			],
+			[
+				"padding",
+				"padding-top:   (property)"
+			],
+			[
+				"so",
+				"sort_col"
+			],
+			[
+				"sort",
+				"sort_col"
+			],
+			[
+				"sor",
+				"sort_order"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"str",
+				"strftime"
+			],
+			[
+				"dat",
+				"datetime  (class)"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"obj",
+				"objectid_val"
+			],
+			[
+				"backg",
+				"background-color:   (property)"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"uplod",
+				"uploadProgress"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"chan",
+				"change_pwd"
+			],
+			[
+				"upda",
+				"update"
+			],
+			[
+				"new",
+				"new_password"
+			],
+			[
+				"set",
+				"send_email_to_merchant"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"form",
+				"form_limits"
+			],
+			[
+				"paddi",
+				"padding-right:   (property)"
+			],
+			[
+				"regi",
+				"register_blueprint"
+			],
+			[
+				"sto",
+				"store_app"
+			],
+			[
+				"op",
+				"operator"
+			],
+			[
+				"cli",
+				"client_count"
+			],
+			[
+				"rec",
+				"rec_limit"
+			],
+			[
+				"sdk",
+				"sdk_arch"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sdk_pa",
+				"sdk_pager"
+			],
+			[
+				"A",
+				"ASCENDING  (variable)"
+			],
+			[
+				"cu",
+				"current_tab"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"te",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"tr",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"boo",
+				"Bookmarks: Clear All"
+			],
+			[
+				"tri",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"t",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"trim",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"",
+				"Bookmarks: Toggle"
+			],
+			[
+				"bo",
+				"Bookmarks: Toggle"
+			],
+			[
+				"b",
+				"Bookmarks: Toggle"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"bra",
+				"Side Bar: Refresh"
+			],
+			[
+				"brac",
+				"BracketHighlighter: Fold Bracket Content"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"line",
+				"BracketHighlighter: Enable Debug Mode"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"code fo",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"prefer",
+				"Preferences: Fold Python Settings"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"fold all",
+				"Code Folding: Unfold All"
+			],
+			[
+				"wra",
+				"BracketHighlighter: Swap Brackets"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"INST",
+				"Package Control: Install Package"
+			],
+			[
+				"LIST PA",
+				"Package Control: Install Package"
+			],
+			[
+				"LIST PAG",
+				"Package Control: List Packages"
+			],
+			[
+				"sni",
+				"Snippet: <?php $this->… ?>"
+			],
+			[
+				"snip",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"si",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"disc",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 51.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ejose/Projects/z_sandbox/skc/wsgi/run.py",
+		"/Users/ejose/Projects/z_sandbox/skc/wsgi/templates/login.html",
+		"/Users/ejose/Projects/z_sandbox/skc/wsgi/dashboard/__init__.py",
+		"/Users/ejose/Projects/z_sandbox/skc/wsgi/templates/base.html",
+		"/Users/ejose/Projects/z_sandbox/skc/wsgi/templates/dashboard/index.html",
+		"/Users/ejose/Projects/z_sandbox/skc/wsgi/skc.sublime-project",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/support/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/store/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/config.py",
+		"/Users/ejose/Projects/radar_appserver/config.py.sample",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/orders/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/store/browse.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/store/modal_info.html",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/beacons/modal_info.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/beacons/browse.html",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/beacons/browse.html",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/merchants/api_endpoints.html",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/merchants/approved_details.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/support.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/base.html",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/orders/modal_info.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/contents/browse.html",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/beacons/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/subscribers/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/sdk/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/beacons/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/sdk/browse.html",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/sdk/version_edit.html",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/sdk/sdk_edit.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/static/js/plugins/faq/faq.js",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/comments.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/comments/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/dashboard/index.html",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/dashboard/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/base.html",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/mailbox/index.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/events/result_bit.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/events/search.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/events/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/mailbox/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/merchants/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/merchants/contents.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/contents/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/contents/open.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/assets/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/radar/builder/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/login/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/contents/builder/wysiwyg/Editor.html",
+		"/Users/ejose/Projects/radar_appserver/wsgi.py",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/orders/browse.html",
+		"/Users/ejose/Projects/radar_appserver/.gitignore",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/orders/modal_edit.html",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/orders/beacon_ids.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/store/modal_edit.html",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/form_elements.html",
+		"/Users/ejose/Projects/radar_appserver/document_map.py",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/maps/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/subscribers/browse.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/subscribers/open.html",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/merchants/for_approval_details.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/form_elements.html",
+		"/Users/ejose/Projects/radar_appserver/radar/landing/templates/index.html",
+		"/Users/ejose/Projects/radar_appserver/radar/landing/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/static/css/base-admin-3.css",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/static/css/base-admin-3-responsive.css",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/setup/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/static/css/bootstrap.css",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/static/css/custom.css",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/analytics/content.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/analytics/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/analytics/index.html",
+		"/Users/ejose/Projects/radar_appserver/radar/api/static/jquery.slides.js",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/events/events_test.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/events/report_tool.py",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/events/events_test.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/events/events_pdf.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/setup/index.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/setup/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/events/testpdf.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/login/lost_password_change.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/events/pagination.py",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/merchants/approved.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/assets/browse.html",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/login.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/login/login.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/static/js/plugins/msgbox/jquery.msgbox.js",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/static/js/plugins/msgbox/jquery.msgbox.min.js",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/maps/location.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/maps/index.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/regions/open.html",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/__init__.py",
+		"/Users/ejose/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/merchants/for_approvals.html",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/merchants/assets.html",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/mailbox/contents.html",
+		"/Users/ejose/Projects/radar_appserver/maild.py",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/sdk/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/setup/couriers.html",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/setup/beacon_types.html",
+		"/Users/ejose/Projects/radar_appserver/utils.py",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/setup/business_category.html",
+		"/Users/ejose/Projects/radar_appserver/radar/frontend/templates/sdk/index.html",
+		"/Users/ejose/Projects/radar_appserver/radar/landing/static/plugins/scrollTo/scrollTo.js",
+		"/Users/ejose/Projects/radar_appserver/radar/landing/static/plugins/msgbox/jquery.msgbox.js",
+		"/Users/ejose/Projects/radar_appserver/radar_appserver.sublime-project",
+		"/Users/ejose/Projects/radar_appserver/radar/api/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/bad-words.txt",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/merchants/map_levels.html",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/static/img/technolab.svg",
+		"/Users/ejose/Library/Application Support/Sublime Text 3/Installed Packages/Trimmer.sublime-package",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/static/js/addon/edit/trailingspace.js",
+		"/Users/ejose/Projects/radar_appserver/radar/landing/static/plugins/animate-css/source/fading_exits/fadeOutRight.css",
+		"/Users/ejose/Projects/radar_appserver/radar/landing/static/plugins/FitVids/CONTRIBUTING.md",
+		"/Users/ejose/Projects/radar_appserver/radar/worker.py",
+		"/Users/ejose/Projects/radar_appserver/radar/__init__.py",
+		"/Users/ejose/Projects/radar_appserver/radar/celeryconfig.py",
+		"/Users/ejose/Projects/radar_appserver/create_index.py",
+		"/Users/ejose/Projects/radar_appserver/fabfile.py",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/templates/elements.html",
+		"/Users/ejose/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/ejose/Projects/radar_appserver/radar/ping/__init__.py",
+		"/Users/ejose/Library/Application Support/Sublime Text 3/Packages/Fold Python/FoldPython.sublime-settings",
+		"/Users/ejose/Projects/radar_appserver/radar/landing/static/plugins/animate-css/source/rotating_exits/rotateOutDownRight.css",
+		"/Users/ejose/Projects/radar_appserver/radar/admin/static/js/plugins/flot/jquery.flot.orderBars.js",
+		"/Users/ejose/Projects/radar_appserver/radar/landing/static/plugins/font-awesome/less/bordered-pulled.less",
+		"/Users/ejose/Projects/radar_appserver/radar/landing/static/plugins/animate-css/source/fading_exits/fadeOut.css",
+		"/Users/ejose/Downloads/beacons.csv"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/ejose/Projects/radar_appserver,*.html",
+			"/Users/ejose/Projects/radar_appserver,*.py",
+			"/Users/ejose/Projects/radar_appserver",
+			"/Users/ejose/Projects/radar_appserver,*.less",
+			"/Users/ejose/Projects/radar_appserver/radar/frontend/templates,*.html",
+			"/Users/ejose/Projects/radar_appserver/frontend/templates,*.html",
+			"/Users/ejose/Projects/radar_appserver",
+			"<project>,*.py",
+			"<project>",
+			"/Users/ejose/Projects/radar_appserver",
+			"/Users/ejose/Projects/radar_appserver/radar/frontend",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"class=\"",
+			"menu",
+			"dashboard",
+			"support",
+			"validate",
+			"jqueryvalidate",
+			"ajax_process",
+			"session",
+			"post",
+			"bt_unassign",
+			"ajax_process",
+			"bt_unassign",
+			" <!-- /.form-group -->",
+			"note",
+			"selec",
+			"new_entry",
+			"faq-list",
+			"support",
+			"comments",
+			"comments.html",
+			"pprint",
+			"export",
+			"email",
+			"pprint",
+			"Parser",
+			"pprint",
+			"static",
+			"contents/assets",
+			"builder",
+			"builder_static",
+			"/assets/",
+			"static",
+			"/preview",
+			"action",
+			"render_template_string",
+			"/preview",
+			"/assets",
+			"builder_module",
+			"import_module",
+			"builder_modules",
+			"index/form",
+			"print 'action",
+			"action save",
+			"action save changes",
+			"/preview",
+			"modal",
+			"contents",
+			"contents_div",
+			"config",
+			"builder_modules",
+			"session['id']",
+			"/preview",
+			"preview",
+			"for review",
+			"history_table_dt",
+			"jsonify",
+			"jsho\njsho",
+			"objectid",
+			"sort",
+			"orders",
+			"orders_load",
+			"orders_table",
+			"history_table_dt",
+			"payment_method",
+			"payment details",
+			"payment method",
+			"order",
+			"order beaco",
+			"order beac",
+			"beacon_type",
+			"QTY",
+			"has_assigned_beacon",
+			"assign_beacon_body",
+			"bt_assign_beacon",
+			"assign_beacons",
+			"alert_close2",
+			"beacon_id",
+			"show_assign_beacon",
+			"modal_info",
+			"response",
+			"div_summary_msgs",
+			"summ_notif",
+			"isInt",
+			"summ_form",
+			"ajax_process",
+			"modified_datetime",
+			"prevent",
+			"beacon_type",
+			"bt_change_qty",
+			"change",
+			"div_msgs",
+			".addClass('hide').removeClass('in');",
+			"valid",
+			"beacon_ids",
+			"bt_assign_beacon",
+			"ajax_process",
+			"form-control",
+			"modified_datetime2",
+			"alert_close",
+			"function second_modal_close() {\n	$('#alert_close').click();\n	$.get(\"/admin/orders/\" + \"{{ order['_id'] }}\" + \"/detail\", function(data) {\n        $(\"#modal_info\").html(data);\n    });\n	$('#second_modal').modal('hide');\n}",
+			"alert_close",
+			"second_modal_close",
+			"cancel_assign",
+			"cancel_assign_x",
+			"col_right",
+			"hide_right_column",
+			"modal_right_col",
+			"col_right",
+			"loading",
+			"$assign_beacon_body",
+			"second_modal",
+			"show_right_column",
+			"hide_right_column",
+			"show_right_column",
+			"width",
+			"update_status",
+			"complete",
+			"save",
+			"modified",
+			"div_summary_msgs",
+			"$('#div_summary_msgs')",
+			"$div_summary_msgs",
+			"orders_modal_update_notes",
+			"merchant_id",
+			"toggle_update_msg",
+			"div_summary_msgs",
+			"ajax_process",
+			"/detail"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"show_assign_beacon",
+			"",
+			"report_contents",
+			"emails",
+			"setup_app",
+			"",
+			"06/1/14",
+			"courier_id",
+			"couriers",
+			"Couriers",
+			"77777",
+			"88888",
+			"'static/js/",
+			"\"static/js/",
+			"\"static/img/",
+			"\"static/plugins/",
+			"'static/css/",
+			"'static/plugins/",
+			"\"static/css/",
+			"'static/css/",
+			"'static/plugins/",
+			"'static/js/",
+			"\"static/js/",
+			"\"static/img/",
+			"\"static/plugins/",
+			"'static/css/",
+			"'static/plugins/",
+			"\"static/css/",
+			"\"static/plugins/",
+			"\"static/plugins",
+			"'static/js/",
+			"\"static/img/",
+			"'static/js/",
+			"\"static/js/",
+			"\"static/plugins/",
+			"'static/css/",
+			"'static/plugins/",
+			"\"static/css/",
+			"\"static/js/",
+			"\"static/bower_components/",
+			"'static/css/",
+			"'static/plugins/",
+			"\"static/css/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 24.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "skc.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projects/radar_appserver/radar_appserver.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

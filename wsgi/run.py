@@ -9,8 +9,8 @@ from pprint import pprint
 # import httplib2
 
 from dashboard import dashboard_app
-# from servers.controller import bp_app as servers_app
-# from gateways.controller import bp_app as gateways_app
+from members import members_app
+from reports import reports_app
 # from networks.controller import bp_app as networks_app
 
 # user: admin
@@ -27,8 +27,8 @@ app.config.from_object('config')
 # Blueprints...
 # -------------------------------------------------------------------------------------------------------------------
 app.register_blueprint(dashboard_app)
-# app.register_blueprint(servers_app)
-# app.register_blueprint(gateways_app)
+app.register_blueprint(members_app)
+app.register_blueprint(reports_app)
 # app.register_blueprint(networks_app)
 
 
@@ -62,15 +62,21 @@ def before_request():
     # print('-------------------BEFORE REQUEST-------------------')
 
 
-@app.errorhandler(404)
-def not_found(error):
-    return render_template('error.html'), 404
+# @app.errorhandler(404)
+# def not_found(error):
+#     return render_template('error.html'), 404
 
 
-@app.route('/')
-@app.route('/login')
-def index():
+@app.route('/', methods=['GET'])
+@app.route('/login', methods=['GET'])
+def login():
     return render_template('login.html')
+
+
+@app.route('/login', methods=['POST'])
+def login_submit():
+    print '== login post'
+    return redirect(url_for('dashboard.index'))
 
 
 if __name__ == '__main__':

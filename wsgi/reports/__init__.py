@@ -5,18 +5,18 @@ from bson.json_util import dumps
 from pprint import pprint
 import os
 
-dashboard_app = Blueprint('dashboard', __name__, url_prefix='/dashboard')
+reports_app = Blueprint('reports', __name__, url_prefix='/reports')
 
 
-@dashboard_app.before_request
+@reports_app.before_request
 def before_request():
-	request.mod = 'dashboard_app'
+	request.mod = 'reports_app'
 
 
-@dashboard_app.route('/', methods=['GET'])
+@reports_app.route('/', methods=['GET'])
 def index():
 	# gateways = app.db.gateways.find()
-	return render_template('dashboard/index.html')
+	return render_template('reports/index.html')
 
 
 # @bp_app.route('/add', methods=['POST'])
