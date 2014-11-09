@@ -79,5 +79,11 @@ def login_submit():
     return redirect(url_for('dashboard.index'))
 
 
+@app.route('/logout', methods=['GET'])
+def logout():
+    print '== logout get'
+    return redirect(url_for('.login'))
+
+
 if __name__ == '__main__':
     app.run(debug=app.config['DEBUG'])

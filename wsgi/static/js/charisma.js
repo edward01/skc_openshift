@@ -36,7 +36,7 @@ $(document).ready(function () {
     $('#themes a').click(function (e) {
         e.preventDefault();
         currentTheme = $(this).attr('data-value');
-        $.cookie('currentTheme', currentTheme, {expires: 365});
+        $.cookie('currentTheme', currentTheme, {expires: 365, path: '/'});
         switchTheme(currentTheme);
     });
 

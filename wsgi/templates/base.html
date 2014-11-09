@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>{% block title %}{% endblock %} - SKC G12</title>
+    <title>{% block title %}{% endblock %} :: SKC G12</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="G12 SKC by Sambahang Kristiyano sa Canumay">
     <meta name="author" content="Edward Jose">
@@ -60,7 +60,7 @@
                 <ul class="dropdown-menu">
                     <li><a href="#">Profile</a></li>
                     <li class="divider"></li>
-                    <li><a href="login.html">Logout</a></li>
+                    <li><a href="{{ url_for('logout') }}">Logout</a></li>
                 </ul>
             </div>
             <!-- user dropdown ends -->
@@ -169,6 +169,13 @@
             </noscript>
             <div id="content" class="col-lg-10 col-sm-10">
                 <!-- content starts -->
+                <div>
+                    <ul class="breadcrumb">
+                        <li>
+                            <a href="#">{{ active_page|capitalize }}</a>
+                        </li>
+                    </ul>
+                </div>
                 {% block content %}{% endblock %}                
                 <!-- content ends -->
             </div>
