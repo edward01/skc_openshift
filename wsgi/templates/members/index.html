@@ -9,84 +9,82 @@
 {% endblock %}
 
 {% block content %}
-<!-- <div>
-    <ul class="breadcrumb">
-        <li>
-            <a href="#">Home</a>
-        </li>
-        <li>
-            <a href="#">Members</a>
-        </li>
-    </ul>
-</div> -->
-<div class=" row">
-    <div class="col-md-3 col-sm-3 col-xs-6">
-        <a data-toggle="tooltip" title="6 new members." class="well top-block" href="#">
-            <i class="glyphicon glyphicon-user blue"></i>
-            <div>Total Members</div>
-            <div>507</div>
-            <span class="notification">6</span>
-        </a>
-    </div>
-    <div class="col-md-3 col-sm-3 col-xs-6">
-        <a data-toggle="tooltip" title="4 new pro members." class="well top-block" href="#">
-            <i class="glyphicon glyphicon-star green"></i>
-            <div>Pro Members</div>
-            <div>228</div>
-            <span class="notification green">4</span>
-        </a>
-    </div>
-    <div class="col-md-3 col-sm-3 col-xs-6">
-        <a data-toggle="tooltip" title="$34 new sales." class="well top-block" href="#">
-            <i class="glyphicon glyphicon-shopping-cart yellow"></i>
-            <div>Sales</div>
-            <div>$13320</div>
-            <span class="notification yellow">$34</span>
-        </a>
-    </div>
-    <div class="col-md-3 col-sm-3 col-xs-6">
-        <a data-toggle="tooltip" title="12 new messages." class="well top-block" href="#">
-            <i class="glyphicon glyphicon-envelope red"></i>
-            <div>Messages</div>
-            <div>25</div>
-            <span class="notification red">12</span>
-        </a>
-    </div>
-</div>
-<div class="row">
     <div class="box col-md-12">
         <div class="box-inner">
-            <div class="box-header well">
-                <h2><i class="glyphicon glyphicon-info-sign"></i> Introduction</h2>
+            <div class="box-header well" data-original-title="">
+                <h2>Member Listing</h2>
                 <div class="box-icon">
-                    <a href="#" class="btn btn-setting btn-round btn-default"><i
-                        class="glyphicon glyphicon-cog"></i></a>
-                    <a href="#" class="btn btn-minimize btn-round btn-default"><i
-                        class="glyphicon glyphicon-chevron-up"></i></a>
-                    <a href="#" class="btn btn-close btn-round btn-default"><i
-                        class="glyphicon glyphicon-remove"></i></a>
+                    <a href="#" class="btn btn-setting btn-round btn-default"><i class="glyphicon glyphicon-cog"></i></a>
+                    <a href="#" class="btn btn-minimize btn-round btn-default"><i class="glyphicon glyphicon-chevron-up"></i></a>
+                    <a href="#" class="btn btn-close btn-round btn-default"><i class="glyphicon glyphicon-remove"></i></a>
                 </div>
             </div>
-            <div class="box-content row">
-                <div class="col-md-12">
-                    <p>Its a live demo of the template. I have created Charisma to ease the repeat work I have to do on my
-                        projects. Now I re-use Charisma as a base for my admin panel work and I am sharing it with you
-                        :)
-                    </p>
-                    <p><b>All pages in the menu are functional, take a look at all, please share this with your
-                        followers.</b>
-                    </p>
-                    <!-- <p class="center-block download-buttons">
-                        <a href="http://usman.it/free-responsive-admin-template/" class="btn btn-primary btn-lg"><i
-                            class="glyphicon glyphicon-chevron-left glyphicon-white"></i> Back to article</a>
-                        <a href="http://usman.it/free-responsive-admin-template/" class="btn btn-default btn-lg"><i
-                            class="glyphicon glyphicon-download-alt"></i> Download Page</a>
-                    </p> -->
-                </div>
+            <div class="box-content">
+                <table class="table table-bordered table-striped table-condensed">
+                    <thead>
+                        <tr>
+                            <th>Username</th>
+                            <th>Date registered</th>
+                            <th>Role</th>
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Muhammad Usman</td>
+                            <td class="center">2012/01/01</td>
+                            <td class="center">Member</td>
+                            <td class="center">
+                                <span class="label-success label label-default">Active</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>White Horse</td>
+                            <td class="center">2012/02/01</td>
+                            <td class="center">Staff</td>
+                            <td class="center">
+                                <span class="label-default label label-danger">Banned</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Sheikh Heera</td>
+                            <td class="center">2012/02/01</td>
+                            <td class="center">Admin</td>
+                            <td class="center">
+                                <span class="label-default label">Inactive</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Saruar</td>
+                            <td class="center">2012/03/01</td>
+                            <td class="center">Member</td>
+                            <td class="center">
+                                <span class="label-warning label label-default">Pending</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Sana Amrin</td>
+                            <td class="center">2012/01/21</td>
+                            <td class="center">Staff</td>
+                            <td class="center">
+                                <span class="label-success label label-default">Active</span>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <ul class="pagination pagination-centered">
+                    <li><a href="#">Prev</a></li>
+                    <li class="active">
+                        <a href="#">1</a>
+                    </li>
+                    <li><a href="#">2</a></li>
+                    <li><a href="#">3</a></li>
+                    <li><a href="#">4</a></li>
+                    <li><a href="#">Next</a></li>
+                </ul>
             </div>
         </div>
     </div>
-</div>
 {% endblock %}
 
 {% block footer %}

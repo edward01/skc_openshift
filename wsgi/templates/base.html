@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>{% block title %}{% endblock %} :: SKC G12</title>
+    <title>{% block title %}{% endblock %} - {{ config.APP_TITLE }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="G12 SKC by Sambahang Kristiyano sa Canumay">
     <meta name="author" content="Edward Jose">
@@ -31,7 +31,7 @@
     <![endif]-->
 
     <!-- The fav icon -->
-    <link rel="shortcut icon" href="{{ url_for('static', filename='img/favicon2.ico') }}">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='img/%s' % config.FAV_ICON) }}">
     {% block head %}{% endblock %}
 </head>
 

@@ -25,3 +25,4 @@ RECAPTCHA_PRIVATE_KEY = ''
 RECAPTCHA_OPTIONS = {'theme': 'white'}
 
 APP_TITLE = 'G12 SKC'
+FAV_ICON = 'favicon.ico'
