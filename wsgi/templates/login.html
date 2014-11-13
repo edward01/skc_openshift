@@ -32,6 +32,12 @@
 
     <!-- The fav icon -->
     <link rel="shortcut icon" href="{{ url_for('static', filename='img/%s' % config.FAV_ICON) }}">
+    <style type="text/css">
+        body {
+            background: #fff url("{{ url_for('static', filename='img/web_bg.jpg') }}") no-repeat fixed center;
+            background-size: cover;
+        }
+    </style>
 </head>
 
 <body>
