@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>{% block title %}{% endblock %} - {{ config.APP_TITLE }}</title>
+    <title>{% block title %}{% endblock %} :: {{ config.APP_TITLE }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="G12 SKC by Sambahang Kristiyano sa Canumay">
     <meta name="author" content="Edward Jose">
@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='css/jquery.iphone.toggle.css') }}">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/uploadify.css') }}">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/animate.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='plugins/common_files/utils.css') }}">
     <!-- jQuery -->
     <script src="{{ url_for('static', filename='plugins/jquery/jquery.min.js') }}"></script>
     <!-- The HTML5 shim, for IE6-8 support of HTML5 elements -->
@@ -32,6 +33,10 @@
 
     <!-- The fav icon -->
     <link rel="shortcut icon" href="{{ url_for('static', filename='img/%s' % config.FAV_ICON) }}">
+    <style>
+        a.navbar-brand { margin-left: 10px; }
+    </style>
+
     {% block head %}{% endblock %}
 </head>
 
@@ -174,6 +179,11 @@
                         <li>
                             <a href="#">{{ active_page|capitalize }}</a>
                         </li>
+                        {% if sub_active_page %}
+                        <li>
+                            <a href="#">{{ sub_active_page|capitalize }}</a>
+                        </li>
+                        {% endif %}
                     </ul>
                 </div>
                 {% block content %}{% endblock %}                
@@ -238,6 +248,7 @@
 <script src="{{ url_for('static', filename='js/jquery.history.js') }}"></script>
 <!-- application script for Charisma demo -->
 <script src="{{ url_for('static', filename='js/charisma.js') }}"></script>
+<script src="{{ url_for('static', filename='plugins/common_files/utils.js') }}"></script>
 {% block footer %}{% endblock %}
 </body>
 </html>

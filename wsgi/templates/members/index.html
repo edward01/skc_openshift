@@ -4,25 +4,29 @@
 
 {% block head %}
 <style type="text/css">
-    
+    .box-header-table { font-size: 14px; }
 </style>
 {% endblock %}
 
 {% block content %}
+<div class="row">
     <div class="box col-md-12">
         <div class="box-inner">
             <div class="box-header well" data-original-title="">
-                <h2>Member Listing</h2>
-                <div class="box-icon">
+                <h2><i class="glyphicon glyphicon-user"></i> Members</h2>
+                <div style="float: right; ">
+                    <a class="btn btn-success btn-xs" href="{{ url_for('.add_edit') }}"><i class="glyphicon glyphicon-plus"></i> Add Member</a>
+                </div>
+                <!-- <div class="box-icon">
                     <a href="#" class="btn btn-setting btn-round btn-default"><i class="glyphicon glyphicon-cog"></i></a>
                     <a href="#" class="btn btn-minimize btn-round btn-default"><i class="glyphicon glyphicon-chevron-up"></i></a>
                     <a href="#" class="btn btn-close btn-round btn-default"><i class="glyphicon glyphicon-remove"></i></a>
-                </div>
+                </div> -->
             </div>
-            <div class="box-content">
-                <table class="table table-bordered table-striped table-condensed">
+            <div class="">
+                <table class="table table-bordered table-striped table-hover">
                     <thead>
-                        <tr>
+                        <tr class="box-header box-header-table">
                             <th>Username</th>
                             <th>Date registered</th>
                             <th>Role</th>
@@ -85,6 +89,7 @@
             </div>
         </div>
     </div>
+</div>
 {% endblock %}
 
 {% block footer %}

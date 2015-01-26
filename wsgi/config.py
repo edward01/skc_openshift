@@ -2,8 +2,8 @@ import os
 _basedir = os.path.abspath(os.path.dirname(__file__))
 
 DB_CONFIG = {
-	'radar': {
-		'name': 'radar',
+	'g12': {
+		'name': 'g12',
 		'location': ['127.0.0.1'],
 		'authenticate': False,
 		'username': 'radar',
@@ -24,5 +24,5 @@ RECAPTCHA_PUBLIC_KEY = ''
 RECAPTCHA_PRIVATE_KEY = ''
 RECAPTCHA_OPTIONS = {'theme': 'white'}
 
-APP_TITLE = 'G12 SKC'
+APP_TITLE = '' #'G12 SKC'
 FAV_ICON = 'favicon.ico'

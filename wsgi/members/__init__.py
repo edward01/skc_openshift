@@ -19,6 +19,26 @@ def index():
 	return render_template('members/index.html')
 
 
+@members_app.route('/open', methods=['GET'])
+def add_edit():
+	# gateways = app.db.gateways.find()
+	return render_template('members/add_edit.html')	
+
+
+@members_app.route('/save', methods=['POST'])
+def save():
+	member_id = request.form.get('member_id', '')
+	if len(member_id) > 0:
+		#- update mode
+		pass
+	else:
+		#- insert mode
+		pass
+
+	flash('Save Successful')
+	return redirect(url_for('.add_edit'))
+
+
 # @bp_app.route('/add', methods=['POST'])
 # def gateways_add():
 # 	gateway_name = request.form['txt_new_gateway']
