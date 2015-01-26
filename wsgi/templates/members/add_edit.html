@@ -40,9 +40,6 @@
                             <hr>
                             <button type="submit" class="btn btn-primary"><i class="glyphicon glyphicon-ok"></i> Submit</button>
                             <button type="button" class="btn btn-default" id="bt_cancel">Cancel</button>
-                            <button type="button" id="sample">
-                                <i class="glyphicon glyphicon-bell icon-white"></i> Top Full Width
-                            </button>
                         </div>
                     </form>
                 </div>
@@ -63,13 +60,6 @@ $(function() {
         window.location = "{{ url_for('.index') }}";
     });
 
-    $('#sample').click(function() {
-        var n = noty({
-            "text": "This is a success information",
-            "layout": "top",
-            "type": "information"
-        });
-    })
     
 });
 </script>

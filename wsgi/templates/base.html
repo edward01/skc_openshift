@@ -249,6 +249,24 @@
 <!-- application script for Charisma demo -->
 <script src="{{ url_for('static', filename='js/charisma.js') }}"></script>
 <script src="{{ url_for('static', filename='plugins/common_files/utils.js') }}"></script>
+<script>
+$(function() {
+    //- Alert Message
+    //- types: [Alert, Success, Error, Warning, Information, Confirm]
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+            {% for category, message in messages %}
+                noty({
+                    "text": "{{ message }}",
+                    "layout": "top",
+                    "type": "{{ category }}"
+                });
+            {% endfor %}
+        {% endif %}
+    {% endwith %}    
+});
+</script>
+
 {% block footer %}{% endblock %}
 </body>
 </html>

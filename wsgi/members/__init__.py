@@ -35,7 +35,7 @@ def save():
 		#- insert mode
 		pass
 
-	flash('Save Successful')
+	flash('Save Successful', 'success')
 	return redirect(url_for('.add_edit'))
 
 
